@@ -1,0 +1,157 @@
+body{
+	font-family: Helvetica;
+	background-color: #ffffff;
+}
+
+#name{
+	color:#000000;
+	font-size: 6.5em;
+	float: left;	
+	width:750px;
+}
+
+#name span{
+	font-weight:bold;
+}
+
+#cat{
+	font-size: 1.8em;
+	color:#000000;
+}
+.one{
+	float:left;
+	width:40%;
+}
+
+#info{
+	overflow:hidden;
+	color:#999999;
+	font-size:1em;
+}
+
+#info span{
+	color:#00a0b0;
+	font-weight:bold;
+}
+
+hr{
+	height:7px;
+	background-color: #000000;
+}
+
+.timeslot{ /* job and explanation*/
+	width:235px;
+	margin: 0 0 10px;
+	padding: 20px 0px 0 0;
+	position:relative;
+	color:#999999;
+	font-size:1.2em;
+}
+
+.date{ /* date only */
+	width:235px;
+	margin: 0 0 10px;
+	padding: 30px 0px 0 0;
+	position:relative;
+	color:#00a0b0;
+	font-size:1.2em;
+}
+
+.timeslot span p strong{ /* job title only */
+	left:100px;
+	color:#000000;
+	font-size:1.2em;
+}
+
+.school{
+	color:#00a0b0;
+	font-size:1.2em;
+	padding: 20px 0px 0 100px;
+	width:250px;
+	position: relative;
+}
+
+#degree{
+	color:#999999;
+	font-size:1.2em;
+	padding: 10px 0px 0 100px;
+	width:250px;
+	position:relative;
+}
+
+.two{
+	width: 45%;
+	float:right;
+	margin-left:40px;
+}
+
+#cat2{
+	font-size: 1.8em;
+	color:#000000;
+	padding: 10px 0px 0 100px;
+}
+
+#cat3{
+	font-size: 1.8em;
+	color:#000000;
+	padding: 100px 0px 0 100px;
+}
+
+.skill{
+	color:#00a0b0;
+	font-size:1.2em;
+	padding: 10px 0px 0 100px;
+	width:250px;
+	position: relative;
+}
+
+#contents{
+	color:#999999;
+	font-size:1.2em;
+	padding: 10px 0px 0 100px;
+	width:250px;
+	position:relative;
+}
+
+.three{
+	width:45%;
+	float:right;
+	margin-left:40px;
+	margin-top:70px;
+}
+
+#cat4{
+	font-size: 1.8em;
+	color:#000000;
+	padding: 100px 0px 20px 100px;
+	margin-bottom: 80px;
+}
+
+.four{
+	width:45%;
+	float:right;
+	margin-left:40px;
+	margin-top:70px;
+}
+
+.att{
+	color:#00a0b0;
+	font-size:1.2em;
+	padding: 10px 0px 0 100px;
+	width:250px;
+	position: relative;
+}
+
+.ans{
+	color:#999999;
+	font-size:1.2em;
+	padding: 10px 0px 0 100px;
+	width:250px;
+	position:relative;
+}
+
+#update{
+	color:#000000;
+	font-size: 1em;
+	padding: 50px 0px 30px 0px;
+}
